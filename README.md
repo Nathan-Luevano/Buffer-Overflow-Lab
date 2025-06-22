@@ -4,7 +4,7 @@ A comprehensive demonstration of classic buffer overflow vulnerabilities and exp
 
 ## Video Walkthrough
 
-[![Buffer Overflow Attack Lab Walkthrough](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Buffer Overflow Attack Lab Walkthrough](https://img.youtube.com/vi/0MjT1W4ZjyQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=0MjT1W4ZjyQ)
 
 *Click the image above to watch a complete walkthrough of this lab*
 
